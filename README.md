@@ -4,7 +4,7 @@ A Integral Calculator that is written in Python. Written to help anyone to calcu
 # Documentation
 1. GUI:
 <img src="/assets/image/Image_of_GUI.png" width="250">
-2. Options(within the drop down menu):
+2. Options:
 - Single Integrals: Takes in only the x bounds
 - Double Integrals: Takes in both of the x and y bounds
 - Triple Integrals: Takes in all of the bounds
