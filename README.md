@@ -3,6 +3,7 @@ A Integral Calculator that is written in Python. Written to help anyone to calcu
 
 # Documentation
 <img src="/assets/image/Image_of_GUI.png" width="250">
+
 # Requirements
 - Python 3
 - Tkinter
