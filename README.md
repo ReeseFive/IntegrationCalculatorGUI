@@ -1,10 +1,13 @@
 # Integration Calculator GUI
-A Integral Calculator that is written in Python.
+A Integral Calculator that is written in Python. Written to help anyone to calculate up to a triple integral of a function given. 
+
+# Documentation
+
 
 # Requirements
-1. Python 3
-2. Tkinter
-3. Sympy
+- Python 3
+- Tkinter
+- Sympy
 
 
 
