@@ -5,9 +5,6 @@ A Integral Calculator that is written in Python. Written to help anyone to calcu
 1. GUI:
 <img src="/assets/image/Image_of_GUI.png" width="250">
 2. Options(within the drop down menu):
-100. First list item
-       - First nested list item
-         - Second nested list item
    - Single Integrals:
      - Takes in only the 2 X bounds
    - Double Integrals:
