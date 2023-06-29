@@ -2,7 +2,7 @@
 A Integral Calculator that is written in Python. Written to help anyone to calculate up to a triple integral of a function given. 
 
 # Documentation
-![Screenshot of the GUI ]()
+![Screenshot of the GUI ](https://github.com/ReeseFive/IntegrationCalculatorGUI/assets/Image_of_GUI.png)
 
 
 # Requirements
