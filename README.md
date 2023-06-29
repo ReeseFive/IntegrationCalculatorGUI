@@ -6,15 +6,15 @@ A Integral Calculator that is written in Python. Written to help anyone to calcu
 <img src="/assets/image/Image_of_GUI.png" width="250">
 2. Options(within the drop down menu):
    - Single Integrals:
-     - Takes in only the 2 X bounds
+   - Takes in only the 2 X bounds
    - Double Integrals:
-     - Takes in both of the X and Y bounds
+   - Takes in both of the X and Y bounds
    - Triple Integrals:
-     - Takes in all of the bounds
+   - Takes in all of the bounds
    - Function:
-     - Takes in the Function to Integrate
+   - Takes in the Function to Integrate
    - Output:
-     - Displays the final answer after clicking the Calculate button.
+   - Displays the final answer after clicking the Calculate button.
 
 
 
