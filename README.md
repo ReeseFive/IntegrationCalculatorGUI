@@ -2,8 +2,7 @@
 A Integral Calculator that is written in Python. Written to help anyone to calculate up to a triple integral of a function given. 
 
 # Documentation
-![Screenshot of the GUI ](/assets/image/image_of_gui.png)
-
+![Screenshot of the GUI ](/assets/image/imageofgui.png)
 
 # Requirements
 - Python 3
